@@ -1,0 +1,59 @@
+.color-picker {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.span-color {
+    color: #49a6e9;
+}
+
+.para {
+    background-color: #222222;
+    color: #ffffff;
+    text-align: center;
+}
+
+.heading {
+    color: #222222;
+    font-family: Open Sans;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.button1 {
+    background-color: #e0e0e0;
+    border-radius: 15px;
+    border-width: 3px;
+    width:100px;
+    height:100px;
+
+}
+
+.button2 {
+    background-color: #6fcf97;
+    border-radius: 15px;
+    border-width: 3px;
+    width:100px;
+    height:100px;
+
+}
+
+.button3 {
+    background-color: #56ccf2;
+    border-radius: 15px;
+    border-width: 3px;
+    width:100px;
+    height:100px;
+
+}
+
+.button4 {
+    background-color: #bb6bd9;
+    border-radius: 15px;
+    border-width: 3px;
+    width:100px;
+    height:100px;
+
+}

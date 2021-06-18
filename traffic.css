@@ -1,0 +1,43 @@
+.bg-container {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    color: #222222;
+    text-align: center;
+}
+
+.button {
+    background-color: #1f1d41;
+    color: #ffffff;
+    border-radius: 10px;
+    border-width: 0px;
+    width: 70px;
+    font-size: 15px;
+    margin-top: 45px;
+
+}
+
+.traffic-light {
+    background-color: #1f1d41;
+    width: 100px;
+    height: 300px;
+    border-radius: 40px;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.bulb {
+    background-color: #4b5069;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 18px;
+
+}
